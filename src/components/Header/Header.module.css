@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 1%;
+}
+
+.holdings {
+  display: inline-block;
+  font-weight: 400;
+  margin-right: 3%;
+}
+
+.dropDown {
+}
